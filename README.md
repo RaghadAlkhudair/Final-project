@@ -137,6 +137,8 @@ python your_script_name.py
 - 📊 Show source chunks or confidence in chatbot answers
 
 ---
+##  Demo videos:
+https://drive.google.com/drive/folders/1JGl3VrH6q8_mV9FxhsRfyZr7d1N4FPNu?usp=share_link
 
 ## 🙋 Contact
 
